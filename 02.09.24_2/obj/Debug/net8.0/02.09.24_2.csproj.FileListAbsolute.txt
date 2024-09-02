@@ -1,0 +1,14 @@
+G:\3kyrs\1sem\c#lab\02.09.24_2\bin\Debug\net8.0\02.09.24_2.exe
+G:\3kyrs\1sem\c#lab\02.09.24_2\bin\Debug\net8.0\02.09.24_2.deps.json
+G:\3kyrs\1sem\c#lab\02.09.24_2\bin\Debug\net8.0\02.09.24_2.runtimeconfig.json
+G:\3kyrs\1sem\c#lab\02.09.24_2\bin\Debug\net8.0\02.09.24_2.dll
+G:\3kyrs\1sem\c#lab\02.09.24_2\bin\Debug\net8.0\02.09.24_2.pdb
+G:\3kyrs\1sem\c#lab\02.09.24_2\obj\Debug\net8.0\02.09.24_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\3kyrs\1sem\c#lab\02.09.24_2\obj\Debug\net8.0\02.09.24_2.AssemblyInfoInputs.cache
+G:\3kyrs\1sem\c#lab\02.09.24_2\obj\Debug\net8.0\02.09.24_2.AssemblyInfo.cs
+G:\3kyrs\1sem\c#lab\02.09.24_2\obj\Debug\net8.0\02.09.24_2.csproj.CoreCompileInputs.cache
+G:\3kyrs\1sem\c#lab\02.09.24_2\obj\Debug\net8.0\02.09.24_2.dll
+G:\3kyrs\1sem\c#lab\02.09.24_2\obj\Debug\net8.0\refint\02.09.24_2.dll
+G:\3kyrs\1sem\c#lab\02.09.24_2\obj\Debug\net8.0\02.09.24_2.pdb
+G:\3kyrs\1sem\c#lab\02.09.24_2\obj\Debug\net8.0\02.09.24_2.genruntimeconfig.cache
+G:\3kyrs\1sem\c#lab\02.09.24_2\obj\Debug\net8.0\ref\02.09.24_2.dll
