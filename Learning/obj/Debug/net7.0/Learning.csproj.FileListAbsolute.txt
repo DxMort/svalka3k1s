@@ -1,0 +1,15 @@
+F:\HCI\3kyrs\1sem\c#\Learning\bin\Debug\net7.0\Learning.exe
+F:\HCI\3kyrs\1sem\c#\Learning\bin\Debug\net7.0\Learning.deps.json
+F:\HCI\3kyrs\1sem\c#\Learning\bin\Debug\net7.0\Learning.runtimeconfig.json
+F:\HCI\3kyrs\1sem\c#\Learning\bin\Debug\net7.0\Learning.dll
+F:\HCI\3kyrs\1sem\c#\Learning\bin\Debug\net7.0\Learning.pdb
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\Learning.csproj.AssemblyReference.cache
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\Learning.AssemblyInfoInputs.cache
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\Learning.AssemblyInfo.cs
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\Learning.csproj.CoreCompileInputs.cache
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\Learning.dll
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\refint\Learning.dll
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\Learning.pdb
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\Learning.genruntimeconfig.cache
+F:\HCI\3kyrs\1sem\c#\Learning\obj\Debug\net7.0\ref\Learning.dll
